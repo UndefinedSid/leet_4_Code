@@ -8,10 +8,10 @@ Red, Yellow, or Green while making sure that no two adjacent cells have the same
 
 Given n the number of rows of the grid, 
 return the number of ways you can paint this grid. 
-As the answer may grow large, the answer must be computed modulo 109 + 7.
+As the answer may grow large, the answer must be computed modulo 10^9 + 7.
 
 n == grid.length
-1 <= n <= 5000
+1 <= n <= 5 * 10^3
 */
 
 class Solution {
