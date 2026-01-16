@@ -1,5 +1,5 @@
 ## PROBLEM --> 2975 (MEDIUM) --> Maximize Square Area – Complete Approach Guide (C++)
-
+Topics --> ARRAY, HASH TABLE, ENUMERATION, CONTEST
 This problem reduces to a **distance matching problem**, not a geometry problem.
 
 We are given:
