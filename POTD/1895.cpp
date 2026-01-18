@@ -1,10 +1,8 @@
-This is a great implementation of the **Largest Magic Square** problem. It efficiently uses **Prefix Sums** to reduce the time complexity of range sum queries from O(K) to O(1)
-
-Below is a formatted GitHub-ready post, including a clear explanation, complexity analysis, and the clean code block.
-
 ---
-
-## 🧩 Largest Magic Square - Optimal Prefix Sum Approach
+https://leetcode.com/problems/largest-magic-square/description/?envType=daily-question&envId=2026-01-18
+   
+## 🧩  PROBLEM --> 1895 (MEDIUM) --> Largest Magic Square - Optimal Prefix Sum Approach
+## topics --> Array, Prefix sum, Matrix, Contest
 
 ### Problem Overview
 
