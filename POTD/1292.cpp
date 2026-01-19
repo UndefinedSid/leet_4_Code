@@ -1,3 +1,11 @@
+https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/?envType=daily-question&envId=2026-01-19
+
+PROBELM --> 1292 (MEDIUM) -->  Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+topics --> ARRAY, BINARY SEARCH, MATRIX, PREFIX SUM, CONTEST
+
+Given a m x n matrix mat and an integer threshold, 
+return the maximum side-length of a square with a sum less than or equal to threshold or return 0 if there is no such square.
+
 ** Key idea -->
 * Build a 2D prefix sum
 * Try square sizes from 1 → min(row, col)
