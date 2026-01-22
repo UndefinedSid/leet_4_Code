@@ -2,7 +2,7 @@
 /*
       PROBLEM --> 287 (MEDIUM) --> FIND THE DUPLICATE NUMBER
       TOPICS --> ARRAY, TWO POINTER, BINARY SEARCH, BIT MANIPULATION
-      // Company Tags  : AMAZON
+      Company Tags  : AMAZON
       Leetcode Link : https://leetcode.com/problems/find-the-duplicate-number/
 */
 
