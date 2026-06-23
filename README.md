@@ -1,5 +1,5 @@
 # leet_4_Code
-My Leetcode problem solution in C++,Python
+My Leetcode problem solution in C++
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
