@@ -15,6 +15,7 @@ My Leetcode problem solution in C++
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
