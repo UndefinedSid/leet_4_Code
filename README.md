@@ -27,6 +27,7 @@ My Leetcode problem solution in C++
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
@@ -35,6 +36,7 @@ My Leetcode problem solution in C++
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
@@ -86,4 +88,8 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
