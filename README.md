@@ -7,6 +7,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -106,4 +107,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
