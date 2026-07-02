@@ -163,4 +163,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
