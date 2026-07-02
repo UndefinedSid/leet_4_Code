@@ -133,9 +133,22 @@ My Leetcode problem solution in C++
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
