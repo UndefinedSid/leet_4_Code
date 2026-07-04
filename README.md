@@ -30,6 +30,7 @@ My Leetcode problem solution in C++
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -47,6 +48,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -70,6 +72,7 @@ My Leetcode problem solution in C++
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -152,6 +155,7 @@ My Leetcode problem solution in C++
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -161,6 +165,7 @@ My Leetcode problem solution in C++
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
