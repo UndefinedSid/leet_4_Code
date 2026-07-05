@@ -146,6 +146,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -161,6 +162,7 @@ My Leetcode problem solution in C++
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ My Leetcode problem solution in C++
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
