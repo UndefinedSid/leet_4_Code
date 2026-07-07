@@ -197,6 +197,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
 | [0620-not-boring-movies](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
