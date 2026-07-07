@@ -196,6 +196,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
+| [0620-not-boring-movies](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
