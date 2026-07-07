@@ -37,6 +37,7 @@ My Leetcode problem solution in C++
 | [0238-product-of-array-except-self](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -55,6 +56,7 @@ My Leetcode problem solution in C++
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -168,11 +170,13 @@ My Leetcode problem solution in C++
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -181,6 +185,7 @@ My Leetcode problem solution in C++
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
