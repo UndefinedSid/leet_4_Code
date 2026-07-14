@@ -19,6 +19,7 @@ My Leetcode problem solution in C++
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -47,6 +48,7 @@ My Leetcode problem solution in C++
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -111,6 +113,7 @@ My Leetcode problem solution in C++
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -228,4 +231,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
