@@ -46,6 +46,7 @@ My Leetcode problem solution in C++
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -197,6 +198,7 @@ My Leetcode problem solution in C++
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -279,6 +281,7 @@ My Leetcode problem solution in C++
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
