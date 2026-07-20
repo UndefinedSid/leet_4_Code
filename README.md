@@ -186,6 +186,7 @@ My Leetcode problem solution in C++
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -202,6 +203,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
@@ -210,6 +212,7 @@ My Leetcode problem solution in C++
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
@@ -220,6 +223,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
