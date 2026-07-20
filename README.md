@@ -29,6 +29,7 @@ My Leetcode problem solution in C++
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
@@ -213,6 +215,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
@@ -224,6 +227,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
