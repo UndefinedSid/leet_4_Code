@@ -30,6 +30,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Array
@@ -38,6 +39,7 @@ My Leetcode problem solution in C++
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
