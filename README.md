@@ -67,6 +67,7 @@ My Leetcode problem solution in C++
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -142,6 +143,7 @@ My Leetcode problem solution in C++
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -162,6 +164,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +280,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
