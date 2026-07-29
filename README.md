@@ -17,6 +17,7 @@ My Leetcode problem solution in C++
 | [3499-maximize-active-section-with-trade-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ My Leetcode problem solution in C++
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
@@ -138,6 +140,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@ My Leetcode problem solution in C++
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -325,6 +329,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
