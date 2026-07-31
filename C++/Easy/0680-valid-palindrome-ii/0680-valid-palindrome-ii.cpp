@@ -6,7 +6,7 @@ public:
             if(s[i]!= s[j]){
                 if(flag)
                     return false;
-                    
+                     
                return finder(s,i+1,j,true) || finder(s,i,j-1,true);
             }
             i++;
