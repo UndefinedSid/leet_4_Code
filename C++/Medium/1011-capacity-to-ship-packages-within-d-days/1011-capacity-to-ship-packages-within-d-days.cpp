@@ -23,7 +23,7 @@ public:
 
         int st = 0, end = 0;
         for(int w : weights){
-            st =max(st,w);
+            // st =max(st,w);
             end += w;
         }
         while (st < end) {
