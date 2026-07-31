@@ -11,6 +11,7 @@ My Leetcode problem solution in C++
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -190,6 +191,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -208,6 +210,7 @@ My Leetcode problem solution in C++
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
