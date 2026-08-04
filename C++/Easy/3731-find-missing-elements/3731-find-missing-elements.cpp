@@ -7,8 +7,21 @@ public:
         int maxi=nums[n-1];
         vector<int> ans;
 
+
+        // binary_search approach
+
+        // for(int i=mini;i<=maxi;i++){
+        //     if(! binary_search(nums.begin(),nums.end(),i))
+        //         ans.push_back(i);
+        // }
+
+        // two pointer approach
+        
+        int idx=0;
         for(int i=mini;i<=maxi;i++){
-            if(! binary_search(nums.begin(),nums.end(),i))
+            if(idx < n && nums[idx]==i)
+                idx++;
+            else
                 ans.push_back(i);
         }
         return ans;
