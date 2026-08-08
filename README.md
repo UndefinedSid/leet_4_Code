@@ -18,6 +18,7 @@ My Leetcode problem solution in C++
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -33,6 +34,7 @@ My Leetcode problem solution in C++
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
@@ -217,6 +219,7 @@ My Leetcode problem solution in C++
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Union-Find
@@ -233,6 +236,7 @@ My Leetcode problem solution in C++
 | [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
