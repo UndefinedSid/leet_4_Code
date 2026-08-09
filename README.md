@@ -32,6 +32,7 @@ My Leetcode problem solution in C++
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -71,6 +72,7 @@ My Leetcode problem solution in C++
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -116,6 +118,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -176,6 +179,7 @@ My Leetcode problem solution in C++
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -382,13 +386,16 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
