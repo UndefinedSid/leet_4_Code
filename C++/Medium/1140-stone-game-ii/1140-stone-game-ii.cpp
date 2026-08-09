@@ -1,5 +1,9 @@
 class Solution {
 public:
+    /*
+    // Top Down (Recursion + Memo) approach
+    // T.C -> O(N^3) and S.C -> O(N^2)
+
     int n;
     vector<int> suffSum;
     int dp[101][101];
@@ -33,5 +37,32 @@ public:
         }
 
         return finder(0,1); 
+    }
+
+    */
+    // Bottom Up approach with same time and space complexity
+    // but less stack overhead due to non recursion..
+
+    int stoneGameII(vector<int>& piles){
+        int n=piles.size();
+        vector<vector<int>> dp(n+1,vector<int> (n+1,0));
+
+        vector<int> suffSum(n+1,0);
+
+        for(int i=n-1;i>=0;i--){
+            suffSum[i]=piles[i] + suffSum[i+1];
+        }
+
+        for(int i=n-1;i>=0;i--){
+            for(int M=1;M<=n;M++){
+                if(i + 2 * M >= n)
+                    dp[i][M]=suffSum[i];
+                else{
+                    for(int x=1;x<= 2 * M ;x++)
+                        dp[i][M]=max(dp[i][M],suffSum[i] - dp[i+x][max(M,x)]);
+                }
+            }
+        }
+        return dp[0][1];
     }
 };
