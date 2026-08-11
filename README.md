@@ -84,6 +84,7 @@ My Leetcode problem solution in C++
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -108,6 +109,7 @@ My Leetcode problem solution in C++
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -136,6 +138,7 @@ My Leetcode problem solution in C++
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
