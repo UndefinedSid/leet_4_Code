@@ -16,6 +16,7 @@ My Leetcode problem solution in C++
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -83,6 +84,7 @@ My Leetcode problem solution in C++
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -208,6 +210,7 @@ My Leetcode problem solution in C++
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -432,4 +435,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
