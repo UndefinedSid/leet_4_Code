@@ -12,6 +12,7 @@ My Leetcode problem solution in C++
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -112,6 +113,7 @@ My Leetcode problem solution in C++
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -275,6 +277,7 @@ My Leetcode problem solution in C++
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
