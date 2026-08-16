@@ -88,6 +88,7 @@ My Leetcode problem solution in C++
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -181,6 +182,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -200,6 +202,7 @@ My Leetcode problem solution in C++
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -241,6 +244,7 @@ My Leetcode problem solution in C++
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -421,22 +425,26 @@ My Leetcode problem solution in C++
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
