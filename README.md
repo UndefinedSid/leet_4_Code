@@ -117,6 +117,7 @@ My Leetcode problem solution in C++
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -458,6 +459,7 @@ My Leetcode problem solution in C++
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
