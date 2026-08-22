@@ -12,6 +12,8 @@
  */
 class Solution {
 public:
+    map<pair<int,int>,vector<TreeNode*>> mp;
+
     vector<TreeNode*> finder(int st, int end) {
         if (st > end) {
             return {NULL};
@@ -21,6 +23,11 @@ public:
             TreeNode* root = new TreeNode(st);
             return {root};
         }
+
+        if(mp.find({st,end}) != mp.end()){
+            return mp[{st,end}];
+        }
+
         vector<TreeNode*> ans;
 
         for (int i = st; i <= end; i++) {
@@ -35,7 +42,7 @@ public:
                 }
             }
         }
-        return ans;
+        return mp[{st,end}]= ans;
     }
     
     vector<TreeNode*> generateTrees(int n) { 
