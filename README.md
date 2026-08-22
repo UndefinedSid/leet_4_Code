@@ -36,6 +36,7 @@ My Leetcode problem solution in C++
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
@@ -80,6 +81,7 @@ My Leetcode problem solution in C++
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
@@ -125,6 +127,7 @@ My Leetcode problem solution in C++
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -292,6 +295,7 @@ My Leetcode problem solution in C++
 | [0209-minimum-size-subarray-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
