@@ -321,6 +321,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0226-invert-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -343,6 +344,7 @@ My Leetcode problem solution in C++
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
@@ -354,6 +356,7 @@ My Leetcode problem solution in C++
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
@@ -369,6 +372,7 @@ My Leetcode problem solution in C++
 | [0112-path-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
