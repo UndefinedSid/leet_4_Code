@@ -19,6 +19,7 @@ My Leetcode problem solution in C++
 | [1927-sum-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -320,6 +321,7 @@ My Leetcode problem solution in C++
 | [0209-minimum-size-subarray-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Breadth-First Search
