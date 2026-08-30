@@ -419,6 +419,7 @@ My Leetcode problem solution in C++
 | [0177-nth-highest-salary](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0620-not-boring-movies](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
