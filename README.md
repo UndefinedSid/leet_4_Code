@@ -427,6 +427,7 @@ My Leetcode problem solution in C++
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
