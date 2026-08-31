@@ -530,6 +530,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
