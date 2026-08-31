@@ -135,6 +135,7 @@ My Leetcode problem solution in C++
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -530,6 +531,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0146-lru-cache/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
@@ -544,4 +546,12 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
