@@ -121,6 +121,7 @@ My Leetcode problem solution in C++
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
@@ -151,6 +152,7 @@ My Leetcode problem solution in C++
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
@@ -350,6 +352,7 @@ My Leetcode problem solution in C++
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +360,7 @@ My Leetcode problem solution in C++
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +444,7 @@ My Leetcode problem solution in C++
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
