@@ -426,6 +426,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Hard/0185-department-top-three-salaries/) | Hard |
