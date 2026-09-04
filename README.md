@@ -6,6 +6,7 @@ My Leetcode problem solution in C++
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -137,6 +138,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -233,6 +235,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
