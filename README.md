@@ -72,6 +72,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
@@ -322,6 +323,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
