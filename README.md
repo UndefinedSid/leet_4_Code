@@ -275,6 +275,7 @@ My Leetcode problem solution in C++
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
