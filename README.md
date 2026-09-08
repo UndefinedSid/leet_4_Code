@@ -452,6 +452,7 @@ My Leetcode problem solution in C++
 | [0185-department-top-three-salaries](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Hard/0185-department-top-three-salaries/) | Hard |
 | [0262-trips-and-users](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Hard/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0608-tree-node/) | Medium |
