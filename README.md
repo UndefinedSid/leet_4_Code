@@ -457,6 +457,7 @@ My Leetcode problem solution in C++
 | [0585-investments-in-2016](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Hard/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0627-swap-sex-of-employees/) | Easy |
