@@ -462,6 +462,7 @@ My Leetcode problem solution in C++
 | [0627-swap-sex-of-employees](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
