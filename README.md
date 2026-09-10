@@ -400,6 +400,7 @@ My Leetcode problem solution in C++
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +412,7 @@ My Leetcode problem solution in C++
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
@@ -428,6 +430,7 @@ My Leetcode problem solution in C++
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
