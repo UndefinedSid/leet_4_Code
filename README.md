@@ -460,6 +460,7 @@ My Leetcode problem solution in C++
 | [0601-human-traffic-of-stadium](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Hard/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
