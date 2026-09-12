@@ -40,6 +40,7 @@ My Leetcode problem solution in C++
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0115-distinct-subsequences/) | Hard |
@@ -252,6 +253,7 @@ My Leetcode problem solution in C++
 | [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0258-add-digits/) | Easy |
@@ -618,4 +620,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
