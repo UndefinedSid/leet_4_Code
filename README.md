@@ -82,6 +82,7 @@ My Leetcode problem solution in C++
 | [0039-combination-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -250,6 +251,7 @@ My Leetcode problem solution in C++
 | [0009-palindrome-number](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0258-add-digits/) | Easy |
