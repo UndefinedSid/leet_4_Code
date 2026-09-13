@@ -489,6 +489,7 @@ My Leetcode problem solution in C++
 | [1204-last-person-to-fit-in-the-bus](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1341-movie-rating/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
