@@ -498,6 +498,7 @@ My Leetcode problem solution in C++
 | [1341-movie-rating](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Topological Sort
