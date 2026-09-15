@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 
 /*
-## self join approach
+## self join approach -> O(N ^ 2)
 
 select a1.machine_id,
     round(avg(a2.timestamp - a1.timestamp),3) as processing_time
@@ -14,7 +14,7 @@ group by a1.machine_id;
 
 */
 
-## conditional Aggregation Approach
+## conditional Aggregation Approach -> O(N)
 
 select machine_id,round(sum(case when activity_type='end' then timestamp 
         else - timestamp end) / count(distinct process_id), 3) 
