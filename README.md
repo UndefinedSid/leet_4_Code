@@ -509,6 +509,7 @@ My Leetcode problem solution in C++
 | [1148-article-views-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1251-average-selling-price](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
 | [1341-movie-rating](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
