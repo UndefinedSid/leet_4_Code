@@ -122,6 +122,7 @@ My Leetcode problem solution in C++
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1652-defuse-the-bomb/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -178,6 +179,7 @@ My Leetcode problem solution in C++
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -200,6 +202,7 @@ My Leetcode problem solution in C++
 | [0238-product-of-array-except-self](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -387,6 +390,7 @@ My Leetcode problem solution in C++
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -402,6 +406,7 @@ My Leetcode problem solution in C++
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1652-defuse-the-bomb/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
