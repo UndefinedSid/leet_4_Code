@@ -20,6 +20,7 @@ My Leetcode problem solution in C++
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1927-sum-game/) | Medium |
@@ -79,6 +80,7 @@ My Leetcode problem solution in C++
 | [0095-unique-binary-search-trees-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ My Leetcode problem solution in C++
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -222,6 +225,7 @@ My Leetcode problem solution in C++
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -420,6 +424,7 @@ My Leetcode problem solution in C++
 | [0226-invert-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0226-invert-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -571,6 +576,7 @@ My Leetcode problem solution in C++
 | [0503-next-greater-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
