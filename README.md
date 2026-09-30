@@ -21,6 +21,7 @@ My Leetcode problem solution in C++
 | [0940-distinct-subsequences-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -582,6 +583,7 @@ My Leetcode problem solution in C++
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -686,6 +688,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
