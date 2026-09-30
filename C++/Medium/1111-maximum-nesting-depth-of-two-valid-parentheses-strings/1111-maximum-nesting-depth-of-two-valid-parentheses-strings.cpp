@@ -12,7 +12,7 @@ public:
             if(ch== '('){
                 dep++;
                 ans[i]=dep % 2;
-            }else if(ch==')'){
+            }else{
                 ans[i]=dep % 2;
                 dep--;
             }
