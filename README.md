@@ -120,6 +120,7 @@ My Leetcode problem solution in C++
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0835-image-overlap/) | Medium |
+| [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
@@ -243,6 +244,7 @@ My Leetcode problem solution in C++
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0767-reorganize-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
+| [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
@@ -371,6 +373,7 @@ My Leetcode problem solution in C++
 | [0678-valid-parenthesis-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
+| [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -406,6 +409,7 @@ My Leetcode problem solution in C++
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
