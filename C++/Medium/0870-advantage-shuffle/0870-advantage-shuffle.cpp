@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int n;
+    /*
+    // normal Approach with using binary search -> (O(N * log N))
 
     int finder(vector<int>& ans, int target,vector<bool>& taken) {
         int n = ans.size();
@@ -51,5 +52,28 @@ public:
             }
         }
         return res;
+    }
+
+    */
+
+   //  Approach with MULTISET and UPPER_BOUND -> (O(N * log N))
+
+    vector<int> advantageCount(vector<int>& nums1, vector<int>& nums2) {
+        int n=nums1.size();
+        multiset<int> mulSet(nums1.begin(),nums1.end());
+        vector<int> ans(n);
+
+        for(int i=0;i<n;i++){
+            auto it=mulSet.upper_bound(nums2[i]);
+
+            if(it != mulSet.end()){
+                ans[i]= *it;
+                mulSet.erase(it);
+            }else{
+                ans[i]= *mulSet.begin();
+                mulSet.erase(mulSet.begin());
+            }
+        }
+        return ans;
     }
 };
