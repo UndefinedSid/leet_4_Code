@@ -6,6 +6,7 @@ My Leetcode problem solution in C++
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
@@ -53,6 +54,7 @@ My Leetcode problem solution in C++
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0044-wildcard-matching/) | Hard |
@@ -647,6 +649,7 @@ My Leetcode problem solution in C++
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
