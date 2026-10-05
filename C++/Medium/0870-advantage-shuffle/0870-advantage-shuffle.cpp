@@ -1,0 +1,55 @@
+class Solution {
+public:
+    int n;
+
+    int finder(vector<int>& ans, int target,vector<bool>& taken) {
+        int n = ans.size();
+        int l=0,r=n-1;
+        int bestIdx=-1;
+
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (ans[mid] > target) {
+                bestIdx = mid;
+                r = mid - 1;
+        
+            } else {
+                l = mid + 1;
+            }
+        }
+
+        if(bestIdx != -1){
+            while(bestIdx < n && taken[bestIdx])
+                bestIdx++;
+        }
+
+        if(bestIdx >= n)
+            return -1;
+
+        return bestIdx;
+    }
+
+    vector<int> advantageCount(vector<int>& nums1, vector<int>& nums2) {
+        n = nums1.size();
+        vector<int> ans(nums1);
+        sort(ans.begin(), ans.end());
+        vector<bool> taken(n, false);
+        vector<int> res(n);
+
+        for (int i = 0; i < n; i++) {
+            int idx = finder(ans, nums2[i], taken);
+            if (idx != -1) {
+                res[i] = ans[idx];
+                taken[idx] = true;
+            }else{
+                int mini=0;
+                while(taken[mini]){
+                    mini++;
+                }
+                res[i]=ans[mini];
+                taken[mini]=true;
+            }
+        }
+        return res;
+    }
+};
