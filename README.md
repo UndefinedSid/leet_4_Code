@@ -10,6 +10,7 @@ My Leetcode problem solution in C++
 | [0020-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -54,6 +55,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
@@ -369,6 +371,7 @@ My Leetcode problem solution in C++
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0044-wildcard-matching/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -644,6 +647,7 @@ My Leetcode problem solution in C++
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
