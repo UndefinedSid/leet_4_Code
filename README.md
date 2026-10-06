@@ -24,6 +24,7 @@ My Leetcode problem solution in C++
 | [0678-valid-parenthesis-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
@@ -381,6 +382,7 @@ My Leetcode problem solution in C++
 | [0767-reorganize-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -619,6 +621,7 @@ My Leetcode problem solution in C++
 | [0503-next-greater-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -732,6 +735,7 @@ My Leetcode problem solution in C++
 | [0022-generate-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Memoization
