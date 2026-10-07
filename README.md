@@ -105,6 +105,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -274,6 +275,7 @@ My Leetcode problem solution in C++
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -435,6 +437,7 @@ My Leetcode problem solution in C++
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
