@@ -18,6 +18,7 @@ My Leetcode problem solution in C++
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -97,6 +98,7 @@ My Leetcode problem solution in C++
 | [0095-unique-binary-search-trees-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Array
@@ -467,6 +469,7 @@ My Leetcode problem solution in C++
 | [0199-binary-tree-right-side-view](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
