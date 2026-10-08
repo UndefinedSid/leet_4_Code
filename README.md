@@ -111,6 +111,7 @@ My Leetcode problem solution in C++
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -194,6 +195,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
