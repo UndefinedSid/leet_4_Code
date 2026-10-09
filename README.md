@@ -35,6 +35,7 @@ My Leetcode problem solution in C++
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -397,6 +398,7 @@ My Leetcode problem solution in C++
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
@@ -641,6 +643,7 @@ My Leetcode problem solution in C++
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -753,6 +756,7 @@ My Leetcode problem solution in C++
 | [1021-remove-outermost-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
