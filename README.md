@@ -72,6 +72,7 @@ My Leetcode problem solution in C++
 | [0132-palindrome-partitioning-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/0132-palindrome-partitioning-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
@@ -133,6 +134,7 @@ My Leetcode problem solution in C++
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0835-image-overlap/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
@@ -386,6 +388,7 @@ My Leetcode problem solution in C++
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -446,6 +449,7 @@ My Leetcode problem solution in C++
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
