@@ -163,6 +163,7 @@ My Leetcode problem solution in C++
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -227,6 +228,7 @@ My Leetcode problem solution in C++
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -277,6 +279,7 @@ My Leetcode problem solution in C++
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -393,6 +396,7 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -708,6 +712,7 @@ My Leetcode problem solution in C++
 | [0050-powx-n](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
