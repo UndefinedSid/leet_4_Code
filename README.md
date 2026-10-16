@@ -159,6 +159,7 @@ My Leetcode problem solution in C++
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1861-rotating-the-box](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -469,6 +470,7 @@ My Leetcode problem solution in C++
 | [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
+| [1861-rotating-the-box](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1861-rotating-the-box/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -531,6 +533,7 @@ My Leetcode problem solution in C++
 | [0835-image-overlap](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
+| [1861-rotating-the-box](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1861-rotating-the-box/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
