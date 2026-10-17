@@ -196,6 +196,7 @@ My Leetcode problem solution in C++
 | [3525-find-x-value-of-array-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -246,6 +247,7 @@ My Leetcode problem solution in C++
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -295,6 +297,7 @@ My Leetcode problem solution in C++
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
