@@ -31,12 +31,8 @@ class Solution:
 
             idx=valIdx[expectedVal]
 
-            nums[i]=expectedVal
-            nums[idx]=currVal
-
-            valIdx[expectedVal]=i
-            valIdx[currVal]=idx
-
+            nums[i], nums[idx] = nums[idx], nums[i]            
+            valIdx[nums[i]], valIdx[nums[idx]] = i, idx
             ops += 1
 
         return ops
