@@ -56,6 +56,7 @@ My Leetcode problem solution in C++
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
