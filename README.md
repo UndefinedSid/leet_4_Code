@@ -213,6 +213,7 @@ My Leetcode problem solution in C++
 | [3886-sum-of-sortable-integers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
