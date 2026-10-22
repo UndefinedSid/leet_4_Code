@@ -137,6 +137,7 @@ My Leetcode problem solution in C++
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
@@ -504,6 +505,7 @@ My Leetcode problem solution in C++
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0367-valid-perfect-square/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
@@ -849,6 +851,7 @@ My Leetcode problem solution in C++
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1095-find-in-mountain-array/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
