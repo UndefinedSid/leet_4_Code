@@ -119,6 +119,7 @@ My Leetcode problem solution in C++
 | [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
@@ -554,6 +555,7 @@ My Leetcode problem solution in C++
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0867-transpose-matrix/) | Easy |
@@ -726,6 +728,7 @@ My Leetcode problem solution in C++
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
