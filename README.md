@@ -657,6 +657,7 @@ My Leetcode problem solution in C++
 | [0596-classes-with-at-least-5-students](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Hard/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0608-tree-node/) | Medium |
+| [0610-triangle-judgement](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/0626-exchange-seats/) | Medium |
