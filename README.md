@@ -34,6 +34,7 @@ My Leetcode problem solution in C++
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1360-number-of-days-between-two-dates/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -374,6 +375,7 @@ My Leetcode problem solution in C++
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1360-number-of-days-between-two-dates/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
