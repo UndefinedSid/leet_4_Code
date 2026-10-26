@@ -207,6 +207,7 @@ My Leetcode problem solution in C++
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -482,6 +483,7 @@ My Leetcode problem solution in C++
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +559,7 @@ My Leetcode problem solution in C++
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +574,7 @@ My Leetcode problem solution in C++
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -606,6 +610,7 @@ My Leetcode problem solution in C++
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
