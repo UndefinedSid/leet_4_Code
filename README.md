@@ -693,6 +693,7 @@ My Leetcode problem solution in C++
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/1789-primary-department-for-each-employee/) | Easy |
+| [1907-count-salary-categories](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Medium/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/UndefinedSid/leet_4_Code/tree/main/MySQL/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
