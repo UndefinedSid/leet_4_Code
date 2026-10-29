@@ -58,6 +58,7 @@ My Leetcode problem solution in C++
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ My Leetcode problem solution in C++
 | [3731-find-missing-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -328,6 +330,7 @@ My Leetcode problem solution in C++
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +427,7 @@ My Leetcode problem solution in C++
 | [3525-find-x-value-of-array-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,6 +602,7 @@ My Leetcode problem solution in C++
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +621,7 @@ My Leetcode problem solution in C++
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -715,6 +721,7 @@ My Leetcode problem solution in C++
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -888,6 +895,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
