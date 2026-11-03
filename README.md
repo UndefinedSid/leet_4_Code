@@ -106,6 +106,7 @@ My Leetcode problem solution in C++
 | [0022-generate-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/UndefinedSid/leet_4_Code/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -127,6 +128,7 @@ My Leetcode problem solution in C++
 | [0054-spiral-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -726,6 +728,7 @@ My Leetcode problem solution in C++
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
