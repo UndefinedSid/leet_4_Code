@@ -125,6 +125,7 @@ My Leetcode problem solution in C++
 | [0041-first-missing-positive](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
@@ -297,6 +298,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0015-3sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -916,4 +918,8 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0069-sqrtx/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
