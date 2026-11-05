@@ -168,6 +168,7 @@ My Leetcode problem solution in C++
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -313,6 +314,7 @@ My Leetcode problem solution in C++
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -522,6 +524,7 @@ My Leetcode problem solution in C++
 | [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0870-advantage-shuffle](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0881-boats-to-save-people/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1861-rotating-the-box](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1861-rotating-the-box/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -543,6 +546,7 @@ My Leetcode problem solution in C++
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1027-longest-arithmetic-subsequence/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1095-find-in-mountain-array/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
