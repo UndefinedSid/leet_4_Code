@@ -183,6 +183,7 @@ My Leetcode problem solution in C++
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
@@ -353,6 +354,7 @@ My Leetcode problem solution in C++
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
