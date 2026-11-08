@@ -29,6 +29,7 @@ My Leetcode problem solution in C++
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -399,6 +400,7 @@ My Leetcode problem solution in C++
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1360-number-of-days-between-two-dates/) | Easy |
@@ -945,4 +947,12 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
