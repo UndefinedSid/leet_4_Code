@@ -168,6 +168,7 @@ My Leetcode problem solution in C++
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -371,6 +372,7 @@ My Leetcode problem solution in C++
 | [0347-top-k-frequent-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -512,6 +514,7 @@ My Leetcode problem solution in C++
 | [0128-longest-consecutive-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -592,6 +595,7 @@ My Leetcode problem solution in C++
 | [0958-check-completeness-of-a-binary-tree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -607,6 +611,7 @@ My Leetcode problem solution in C++
 | [0867-transpose-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0867-transpose-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1861-rotating-the-box/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -650,6 +655,7 @@ My Leetcode problem solution in C++
 | [0814-binary-tree-pruning](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0814-binary-tree-pruning/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
