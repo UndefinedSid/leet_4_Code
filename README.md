@@ -100,6 +100,7 @@ My Leetcode problem solution in C++
 | [3524-find-x-value-of-array-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -227,6 +228,7 @@ My Leetcode problem solution in C++
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
