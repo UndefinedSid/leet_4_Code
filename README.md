@@ -440,6 +440,7 @@ My Leetcode problem solution in C++
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
@@ -510,6 +511,7 @@ My Leetcode problem solution in C++
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
