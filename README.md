@@ -153,6 +153,7 @@ My Leetcode problem solution in C++
 | [0486-predict-the-winner](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0665-non-decreasing-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0665-non-decreasing-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [0835-image-overlap](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0835-image-overlap/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/0845-longest-mountain-in-array/) | Medium |
