@@ -216,6 +216,7 @@ My Leetcode problem solution in C++
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -455,6 +456,7 @@ My Leetcode problem solution in C++
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -588,6 +590,7 @@ My Leetcode problem solution in C++
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -806,6 +809,7 @@ My Leetcode problem solution in C++
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,6 +828,7 @@ My Leetcode problem solution in C++
 | [0503-next-greater-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -968,4 +973,12 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
