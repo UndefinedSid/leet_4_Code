@@ -90,6 +90,7 @@ My Leetcode problem solution in C++
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -182,6 +183,7 @@ My Leetcode problem solution in C++
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1652-defuse-the-bomb/) | Easy |
@@ -303,6 +305,7 @@ My Leetcode problem solution in C++
 | [0209-minimum-size-subarray-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
@@ -422,6 +425,7 @@ My Leetcode problem solution in C++
 | [1401-circle-and-rectangle-overlapping](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
