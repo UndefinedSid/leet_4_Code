@@ -203,6 +203,7 @@ My Leetcode problem solution in C++
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2293-min-max-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2293-min-max-game/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -836,6 +837,7 @@ My Leetcode problem solution in C++
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2293-min-max-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2293-min-max-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
