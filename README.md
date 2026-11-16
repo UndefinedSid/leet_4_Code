@@ -45,6 +45,7 @@ My Leetcode problem solution in C++
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -830,6 +831,7 @@ My Leetcode problem solution in C++
 | [0258-add-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
