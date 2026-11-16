@@ -202,6 +202,7 @@ My Leetcode problem solution in C++
 | [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -434,6 +435,7 @@ My Leetcode problem solution in C++
 | [1927-sum-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2409-count-days-spent-together](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2409-count-days-spent-together/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -797,6 +799,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [0258-add-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -831,6 +834,7 @@ My Leetcode problem solution in C++
 | [0258-add-digits](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/1260-shift-2d-grid/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3498-reverse-degree-of-a-string/) | Easy |
@@ -849,6 +853,7 @@ My Leetcode problem solution in C++
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
