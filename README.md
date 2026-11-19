@@ -210,6 +210,7 @@ My Leetcode problem solution in C++
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -349,6 +350,7 @@ My Leetcode problem solution in C++
 | [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -526,6 +528,7 @@ My Leetcode problem solution in C++
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
