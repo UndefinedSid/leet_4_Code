@@ -209,6 +209,7 @@ My Leetcode problem solution in C++
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2293-min-max-game](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2293-min-max-game/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -353,6 +354,7 @@ My Leetcode problem solution in C++
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/2094-finding-3-digit-even-numbers/) | Easy |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -531,6 +533,7 @@ My Leetcode problem solution in C++
 | [2029-stone-game-ix](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
