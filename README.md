@@ -229,6 +229,7 @@ My Leetcode problem solution in C++
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -364,6 +365,7 @@ My Leetcode problem solution in C++
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -547,6 +549,7 @@ My Leetcode problem solution in C++
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3301-maximize-the-total-height-of-unique-towers/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
