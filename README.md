@@ -266,6 +266,7 @@ My Leetcode problem solution in C++
 | [3886-sum-of-sortable-integers](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/UndefinedSid/leet_4_Code/tree/main/Python3/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -315,6 +316,7 @@ My Leetcode problem solution in C++
 | [3731-find-missing-elements](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -619,6 +621,7 @@ My Leetcode problem solution in C++
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3620-network-recovery-pathways/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1037,4 +1040,16 @@ My Leetcode problem solution in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/UndefinedSid/leet_4_Code/tree/main/C++/Hard/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
